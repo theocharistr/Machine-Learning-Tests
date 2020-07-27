@@ -1,0 +1,3 @@
+# Waffle_vs_Pancake_Classifier
+Classifying waffle and pancake recipes using the machine learning method of support vector machines(SVM).
+It turns out waffle recipes have more sugar and butter than pancake recipes.
