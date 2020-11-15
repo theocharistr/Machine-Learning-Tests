@@ -2,9 +2,8 @@
 Classifying waffle and pancake recipes using the machine learning method of support vector machines(SVM).
 It turns out waffle recipes have more sugar and butter than pancake recipes.
 Inputs:  
-![table](https://user-images.githubusercontent.com/41951429/99183345-4343c280-273b-11eb-95bf-44ac3d6551e2.png)  
+![table](https://user-images.githubusercontent.com/41951429/99183542-e5b07580-273c-11eb-9435-d2ac569e89c7.png)
 SVM Classifier:  
 ![svm](https://user-images.githubusercontent.com/41951429/99183343-40e16880-273b-11eb-80da-b167e65b4cb4.png)  
 Classifying new input:  
-![new](https://user-images.githubusercontent.com/41951429/99183346-43dc5900-273b-11eb-9995-deb3ee921437.png)
-![alt text](https://user-images.githubusercontent.com/41951429/99183415-df6dc980-273b-11eb-8a7c-4fb1765bb6ff.png)
+ 
